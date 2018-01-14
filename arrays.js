@@ -13,7 +13,7 @@ function addElementToBeginningOfArray() {
 }
 
 function destructivelyAddElementToBeginningOfArray(array) {
-  
+
 }
 function removeElementFromBeginningOfArray(array) {
   var a = array.slice(-2)
