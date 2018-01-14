@@ -9,13 +9,13 @@ function destructivelyAddElementToBeginningOfArray(array2,element2) {
 }
 
 function addElementToBeginningOfArray() {
-  
+
 }
 
 function destructivelyAddElementToBeginningOfArray() {
-  
+
 }
 
 function removeElementFromEndOfArray() {
-  
+
 }
