@@ -8,3 +8,14 @@ function destructivelyAddElementToBeginningOfArray(array2,element2) {
   return array2;
 }
 
+function addElementToBeginningOfArray() {
+  
+}
+
+function destructivelyAddElementToBeginningOfArray() {
+  
+}
+
+function removeElementFromEndOfArray() {
+  
+}
