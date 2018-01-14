@@ -8,13 +8,8 @@ function destructivelyAddElementToBeginningOfArray(array2,element2) {
   return array2;
 }
 
-function addElementToBeginningOfArray() {
 
-}
 
-function destructivelyAddElementToBeginningOfArray(array) {
-
-}
 function removeElementFromBeginningOfArray(array) {
   var a = array.slice(-2)
   return a;
